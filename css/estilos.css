@@ -1,0 +1,33 @@
+span{
+    color: red;
+}
+
+.backImg{
+    background-image: url("../img/ingenieria/ing6.jpg");
+    background-size: cover;
+}
+.backImg2{
+    background-image: url("../img/ingenieria/ing20.jpg");
+    background-size: cover;
+}
+
+
+.backN{
+    background-color: rgb(192, 192, 192);
+}
+.logo_redes{    
+    width: 60px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 14px;
+    background-color: white;
+} 
+
+.whatsapp{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 40px;
+    height: 40px;
+    z-index: 2;
+}
